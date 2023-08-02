@@ -53,9 +53,12 @@ button {
     padding: 100px;
     color: #1f2937;
     font-size: 36px;
-}
-.quote #text {
     font-style: italic;
+}
+.quote #name {
+    font-style: normal;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .c2a {
