@@ -47,3 +47,10 @@ button {
 .c2a button {
     border-color: white;
 }
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
