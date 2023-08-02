@@ -41,6 +41,9 @@ button {
     background-color: #3882f6;
     color: white;
     border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .quote {
