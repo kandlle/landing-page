@@ -11,6 +11,11 @@ html * {
     padding-top: 10px;
 }
 
+.hero #links {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .section-one h1 {
     font-size:48px;
     color: #F9FAF8;
@@ -79,4 +84,14 @@ button {
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+#placeholder {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#button {
+    display: flex;
+    justify-content: flex-end;
 }
