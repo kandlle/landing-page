@@ -1,9 +1,11 @@
 html * {
     font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 .section-one {
     background-color: #1f2937;
     color: white;
+    padding: 20px;
 }
 
 .section-one .links {
@@ -11,9 +13,14 @@ html * {
     color: white;
 }
 
+.section-two {
+    padding: 20px;
+}
+
 .section-two h1 {
     color: #1f2937;
     font-size: 36px;
+    text-align: center;
 }
 
 button {
@@ -40,7 +47,7 @@ button {
     background-color: #3882f6;
     color: white;
     margin: 50px;
-    padding: 10px;
+    padding: 40px;
     border-radius: 5px;
 }
 
