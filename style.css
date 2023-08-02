@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto';
+}
+
+.section-one {
+    background-color: #1f2937;
+    color: white;
+}
+
+.section-one .links {
+    text-decoration: none;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+}
+
+.quote {
+    background-color:#E5E7EB ;
+    padding: 100px;
+    color: #1f2937;
+}
+
+.c2a {
+    background-color: #3882f6;
+    color: white;
+    margin: 50px;
+}
