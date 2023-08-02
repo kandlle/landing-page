@@ -22,13 +22,15 @@ html * {
     padding: 80px;
 }
 
-.hero .links {
+a {
     text-decoration: none;
     color: white;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .section-two {
-    padding: 80px;
+    padding: 100px;
 }
 
 .section-two h1 {
@@ -56,16 +58,13 @@ button {
     font-style: italic;
 }
 
-.quote #name{
-    font-weight: bold;
-}
-
 .c2a {
     background-color: #3882f6;
     color: white;
     margin: 50px;
     padding: 40px;
     border-radius: 5px;
+    
 }
 
 .c2a button {
